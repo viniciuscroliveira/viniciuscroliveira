@@ -1,7 +1,7 @@
 ### Hi, I'm Vinicius Rodrigues, nice to meet you! 👋
 
-- 🔭 I’m currently working on JavaScript projects
-- 🌱 I’m currently learning TypeScript
+- 🔭 I’m currently working on Python projects
+- 🌱 I’m currently learning Flask
 
 <div align="center">
   <a href="https://github.com/viniciuscroliveira">
